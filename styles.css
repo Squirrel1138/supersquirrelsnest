@@ -1,0 +1,9 @@
+body { background-color:green; }
+
+table,tr,td{
+    border: 2px solid blue;	
+    
+}
+tr, td {padding:50px; }
+
+p {color: yellow; font-size: 150%;}
